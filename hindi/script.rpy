@@ -10,49 +10,51 @@ translate hindi 69ff737f:
 translate hindi start_54c881dc:
 
     # NoName "Hi! My name is..."
-    NoName ""
+    NoName "Hi! Mera naam..."
 
 # game/script.rpy:768
 translate hindi start_input_2_a0ecd7a8:
 
     # ch_Name "My name is [Name] [Surname] and I am 18 years old."
-    ch_Name ""
+    ch_Name "Mera naam [Name] [Surname] hai or mai 18 saal ka hoon."
 
 # game/script.rpy:774
 translate hindi start_input_2_f789cadc:
 
-    # ch_Name "I should have been at training camp with my team right now."
-    ch_Name ""
+    # ch_Name "I should have been at training camp wjth my team right now."
+    ch_Name "Is waqt mujhe apne team ke sath training camp pe hona chahiye tha."
+
+"
 
 # game/script.rpy:776
 translate hindi start_input_2_d05c9319:
 
     # ch_Name "But fate had something else prepared for me."
-    ch_Name ""
+    ch_Name "Par kismat mein kuch aur likha tha"
 
 # game/script.rpy:780
 translate hindi start_input_2_8ba3057e:
 
     # ch_Name "Double open fracture..."
-    ch_Name ""
+    ch_Name "Double open fracture "
 
 # game/script.rpy:781
 translate hindi start_input_2_9ca377b3:
 
     # ch_Name "It's a miracle I'm not crippled."
-    ch_Name ""
+    ch_Name "Ye kisi chamatkar se kam nhi ki mai chal fir skta"
 
 # game/script.rpy:782
 translate hindi start_input_2_b118fdd0:
 
     # ch_Name "Still, I had to say goodbye to my soccer career..."
-    ch_Name ""
+    ch_Name "par ,Mujhe soccer player banne ke dream ko bhoolna pada"
 
 # game/script.rpy:783
 translate hindi start_input_2_e826d333:
 
     # ch_Name "And to the scholarship I needed for college as well."
-    ch_Name ""
+    ch_Name "jis wajah se ab mujhe college jaane ke liye scholarship bhi nhi mil sakti."
 
 # game/script.rpy:787
 translate hindi start_input_2_9cc3f3ac:
