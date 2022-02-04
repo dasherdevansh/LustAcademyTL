@@ -10,475 +10,479 @@ translate hindi 69ff737f:
 translate hindi start_54c881dc:
 
     # NoName "Hi! My name is..."
-    NoName ""
+    NoName "Hi! Mera naam..."
 
 # game/script.rpy:768
 translate hindi start_input_2_a0ecd7a8:
 
     # ch_Name "My name is [Name] [Surname] and I am 18 years old."
-    ch_Name ""
+    ch_Name "Mera naam [Name] [Surname] hai or mai 18 saal ka hoon."
 
 # game/script.rpy:774
 translate hindi start_input_2_f789cadc:
 
-    # ch_Name "I should have been at training camp with my team right now."
-    ch_Name ""
+    # ch_Name "I should have been at training camp wjth my team right now."
+    ch_Name "Is waqt mujhe apne team ke sath training camp pe hona chahiye tha."
+
+"
 
 # game/script.rpy:776
 translate hindi start_input_2_d05c9319:
 
     # ch_Name "But fate had something else prepared for me."
-    ch_Name ""
+    ch_Name "Par kismat mein kuch aur likha tha"
 
 # game/script.rpy:780
 translate hindi start_input_2_8ba3057e:
 
     # ch_Name "Double open fracture..."
-    ch_Name ""
+    ch_Name "Double open fracture "
 
 # game/script.rpy:781
 translate hindi start_input_2_9ca377b3:
 
     # ch_Name "It's a miracle I'm not crippled."
-    ch_Name ""
+    ch_Name "Ye kisi chamatkar se kam nhi ki mai chal fir skta"
 
 # game/script.rpy:782
 translate hindi start_input_2_b118fdd0:
 
     # ch_Name "Still, I had to say goodbye to my soccer career..."
-    ch_Name ""
+    ch_Name "par ,Mujhe soccer player banne ke dream ko bhoolna pada"
 
 # game/script.rpy:783
 translate hindi start_input_2_e826d333:
 
     # ch_Name "And to the scholarship I needed for college as well."
-    ch_Name ""
+    ch_Name "jis wajah se ab mujhe college jaane ke liye scholarship bhi nhi mil sakti."
 
 # game/script.rpy:787
 translate hindi start_input_2_9cc3f3ac:
 
     # ch_Name "So I had to find another way to get an education."
-    ch_Name ""
+    ch_Name "isiliye mujhe padhai karne ke liye doosra tareeka dhoodhna pada"
 
 # game/script.rpy:789
 translate hindi start_input_2_55620e58:
 
     # ch_Name "Samantha suggested I try photography."
-    ch_Name ""
+    ch_Name "Samantha ne mujhe photography suggest kiya"
 
 # game/script.rpy:791
 translate hindi start_input_2_a8a5cb72:
 
     # ch_Name "As it turns out, I'm a natural!"
-    ch_Name ""
+    ch_Name "or pata chala mai to mai to pro hu isme"
 
 # game/script.rpy:793
 translate hindi start_input_2_e0b7f024:
 
     # ch_Name "Now I work part-time as a photographer to save money for college."
-    ch_Name ""
+    ch_Name "College ke liye paise collect kar raha part time photography karke."
 
 # game/script.rpy:798
 translate hindi start_input_2_0eb03f84:
 
     # ch_Name "I've been applying filters on photos all day..."
-    ch_Name ""
+    ch_Name "Aaj subah se hi photos pe filters laga raha "
 
 # game/script.rpy:800
 translate hindi start_input_2_86ff8bea:
 
     # ch_Name "I hope the client will be happy."
-    ch_Name ""
+    ch_Name "I hope client ko pasand aaye."
 
 # game/script.rpy:802
 translate hindi start_input_2_19d3c2fb:
 
     # ch_Name "A few more shoots and I'll have enough for a down payment."
-    ch_Name ""
+    ch_Name "Kuch hi shots ki baat hai fir to itne paise hojaynge ki down payment hojaye."
 
 # game/script.rpy:804
 translate hindi start_input_2_b9fa1026:
 
     # ch_Name "And I still have time to get out of this shit-hole this semester."
-    ch_Name ""
+    ch_Name "Aur hopefully is semester ke end tak mai is bakwas jagah se nikal jaunga."
 
 # game/script.rpy:818
 translate hindi start_input_2_b6ce45a5:
 
     # NoName "Knock-Knock"
-    NoName ""
+    NoName "Knock-Knock"
 
 # game/script.rpy:863
 translate hindi start_input_2_6f8b77bd:
 
     # Olivia "[Name] [Surname]! You've been slacking again?"
-    Olivia ""
+    Olivia "[Name] [Surname]! Tum aaj bhi time barbad kar rahe? "
 
 # game/script.rpy:865
 translate hindi start_input_2_fcb030eb:
 
     # Olivia "I expected as much from you."
-    Olivia ""
+    Olivia "Tumse yahi umeed thi."
 
 # game/script.rpy:867
 translate hindi start_input_2_944e7bfb:
 
     # ch_Name "Please don't start that, Olivia, I've been working all day."
-    ch_Name ""
+    ch_Name "Olivia Please ! Firse nahi, Aaj poore din kaam karke thak gaya hu."
 
 # game/script.rpy:869
 translate hindi start_input_2_9039396f:
 
     # Olivia "Start what?!"
-    Olivia ""
+    Olivia "Firse kya?"
 
 # game/script.rpy:871
 translate hindi start_input_2_f6f68885:
 
     # Olivia "What kind of tone is that?"
-    Olivia ""
+    Olivia "Ye Koi tareeka hai baat karne ka?"
 
 # game/script.rpy:873
 translate hindi start_input_2_4d4ef9ab:
 
     # Olivia "You've been in your room all day!"
-    Olivia ""
+    Olivia "Poore time apne room me rehte ho!"
 
 # game/script.rpy:875
 translate hindi start_input_2_3c898584:
 
     # Olivia "Or do you think I'm blind?!"
-    Olivia ""
+    Olivia "Tumhe kya mai andhi dikhti hu?"
 
 # game/script.rpy:877
 translate hindi start_input_2_b510ad9f:
 
     # ch_Name "But..."
-    ch_Name ""
+    ch_Name "Lekin..."
 
 # game/script.rpy:879
 translate hindi start_input_2_ad8c35fe:
 
     # Olivia "No buts!"
-    Olivia ""
+    Olivia "Koi bahana nahi!"
 
 # game/script.rpy:881
 translate hindi start_input_2_9a44f10c:
 
     # Olivia "That's what Don was talking about. You're out of control!"
-    Olivia ""
+    Olivia "Don shi keh rhen hai. tum ekdm laparwa hogye ho"
 
 # game/script.rpy:883
 translate hindi start_input_2_3a73df72:
 
     # Olivia "Your ingratitude leaves us no choice."
-    Olivia ""
+    Olivia "Tumhara behaviour humare pass aur koi option nahi chhoda."
 
 # game/script.rpy:885
 translate hindi start_input_2_2a5612ed:
 
     # Olivia "If your mother heard that at 18 years old..."
-    Olivia ""
+    Olivia "Agr tumhari mummy ye sb sunti or dekhti..."
 
 # game/script.rpy:887
 translate hindi start_input_2_362faf0b:
 
     # Olivia "...her son would neither study nor work!"
-    Olivia ""
+    Olivia "ki unka beta na to padhta hai or na hi koi kaam karta hai!"
 
 # game/script.rpy:889
 translate hindi start_input_2_2043c397:
 
     # Olivia "She'd be spinning in her grave!"
-    Olivia ""
+    Olivia "To wo sharm se jhuk jaati!"
 
 # game/script.rpy:891
 translate hindi start_input_2_f6a83891:
 
     # ch_Name "Olivia..."
-    ch_Name ""
+    ch_Name "Olivia..."
 
 # game/script.rpy:893
 translate hindi start_input_2_117ab70a:
 
     # ch_Name "Leave my mother alone!"
-    ch_Name ""
+    ch_Name "Meri mom ko to chhod do!"
 
 # game/script.rpy:895
 translate hindi start_input_2_ce40e133:
 
     # Olivia "Don't you raise your voice at me in my house!"
-    Olivia ""
+    Olivia "Apni awaz neeche rakho.Ye mera ghar hai!"
 
 # game/script.rpy:897
 translate hindi start_input_2_532196a0:
 
     # Olivia "Truth hurts, doesn't it?"
-    Olivia ""
+    Olivia "Sach kadwa hota hai.Hai na?"
 
 # game/script.rpy:899
 translate hindi start_input_2_f6724a46:
 
     # ch_Name "You know why this is the way it is!"
-    ch_Name ""
+    ch_Name "Apko to pata hai ki jo bhi hai aisa kyo hai"
 
 # game/script.rpy:901
 translate hindi start_input_2_4682ac22:
 
     # ch_Name "I'd be at university right now if it wasn't for my leg..."
-    ch_Name ""
+    ch_Name "Aaj mai University me hota agr mera paer"
 
 # game/script.rpy:903
 translate hindi start_input_2_6eb4f2dc:
 
     # Olivia "You should have thought of that before!"
-    Olivia ""
+    Olivia "Ye tumhe pehle sochna chahiye tha!"
 
 # game/script.rpy:905
 translate hindi start_input_2_245150b8:
 
     # Olivia "Sport is always a risk."
-    Olivia ""
+    Olivia "Soccer khelne se pehley."
 
 # game/script.rpy:907
 translate hindi start_input_2_5783fa11:
 
     # Olivia "You should've done less loafing and studied more. Like Ashley!"
-    Olivia ""
+    Olivia "Khelne aur masti se zyada tumhe padhai pe dhyan dena chahiye tha, Ashley se kuch seekho!"
 
 # game/script.rpy:909
 translate hindi start_input_2_aedee487:
 
     # Olivia "And now what?"
-    Olivia ""
+    Olivia "Aur ab? Koi plan hai?"
 
 # game/script.rpy:911
 translate hindi start_input_2_036404a6:
 
     # Olivia "How do you plan to get an education?"
-    Olivia ""
+    Olivia "Bina University ke padhoge kaise?"
 
 # game/script.rpy:913
 translate hindi start_input_2_b1e52819:
 
     # ch_Name "I'm working on it."
-    ch_Name ""
+    ch_Name "Don't worry.Mai wo sambhal lunga."
 
 # game/script.rpy:915
 translate hindi start_input_2_2aa9b9d5:
-
+,
     # Olivia "He's working..."
-    Olivia ""
+    Olivia "Dikh raha wo..."
+    
+    
 
 # game/script.rpy:917
 translate hindi start_input_2_b33dc905:
 
     # Olivia "I see how hard you’re \"working\"!"
-    Olivia ""
+    Olivia "\"Mai sambhal lunga\"..!"
 
 # game/script.rpy:919
 translate hindi start_input_2_691c3787:
 
     # Olivia "[Name], our hospitality is not unlimited."
-    Olivia ""
+    Olivia "Hum aise hi free me sabko hamesha ke liye nahi rakh sakte.Ye ghar daya pe nhj chalega."
 
 # game/script.rpy:921
 translate hindi start_input_2_2089379b:
 
     # ch_Name "{i}(That's for sure...){/i}"
-    ch_Name ""
+    ch_Name "{i}Han dikh rha...{/i)"
 
 # game/script.rpy:923
 translate hindi start_input_2_2869137c:
 
     # Olivia "We didn't want this, but you leave us no choice."
-    Olivia ""
+    Olivia "Humbhi aisa karna nhi chahte the par ab humare pass koi aur choice nhi bachi hai."
 
 # game/script.rpy:925
 translate hindi start_input_2_42f41d8b:
 
     # Olivia "If you want to throw your life away..."
-    Olivia ""
+    Olivia "Agar tumhe apni zindagi aise hi barbaad karni hai to ..."
 
 # game/script.rpy:927
 translate hindi start_input_2_b962a7e0:
 
     # Olivia "We won't let you do it with your feet dangling off Don's neck!"
-    Olivia ""
+    Olivia "Humare sir pe mat karo!"
 
 # game/script.rpy:929
 translate hindi start_input_2_f6f5841f:
 
     # Olivia "You're a grown man."
-    Olivia ""
+    Olivia "Tum bade ho gye ho."
 
 # game/script.rpy:931
 translate hindi start_input_2_bca2c05c:
 
     # Olivia "You can take care of yourself."
-    Olivia ""
+    Olivia "Apna dhyan khud rakh sakte ho."
 
 # game/script.rpy:933
 translate hindi start_input_2_f4cb3c7a:
 
     # ch_Name "What do you mean? Are you kicking me out?"
-    ch_Name ""
+    ch_Name "Maltb? Kya aap mujhe ghar se nikal rahi?"
 
 # game/script.rpy:935
 translate hindi start_input_2_90f3a346:
 
     # ch_Name "But, Olivia, come on... Where am I supposed to go?"
-    ch_Name ""
+    ch_Name "Lekin, Olivia, come on...Mai jaunga kaha?"
 
 # game/script.rpy:937
 translate hindi start_input_2_2661214d:
 
     # Olivia "What do you take us for? Savages?"
-    Olivia ""
+    Olivia "Tumhe hum kya dikhte hai?Monsters?"
 
 # game/script.rpy:939
 translate hindi start_input_2_3c004877:
 
     # Olivia "You're my best friend's son, God rest her soul."
-    Olivia ""
+    Olivia "Tum mere best friend ke ladke ho.Bhagwan uske aatma ko shanti de."
 
 # game/script.rpy:941
 translate hindi start_input_2_668cf83e:
 
     # Olivia "And I talked Don out of kicking you out."
-    Olivia ""
+    Olivia "Maine Don ko tumhe bahar nikalne se to manaliya hai."
 
 # game/script.rpy:943
 translate hindi start_input_2_cbbc98eb:
 
     # ch_Name "Thank you, I knew..."
-    ch_Name ""
+    ch_Name "Shukriya,Mujhe pata tha..."
 
 # game/script.rpy:945
 translate hindi start_input_2_53623f8c:
 
     # Olivia "But!"
-    Olivia ""
+    Olivia "Lekin!"
 
 # game/script.rpy:947
 translate hindi start_input_2_7e4ac717:
 
     # ch_Name "{i}(Of course there’s a \"but\"!){/i}"
-    ch_Name ""
+    ch_Name "{i}(Ofcourse lekin to hoga hi){/i}"
 
 # game/script.rpy:949
 translate hindi start_input_2_09453d86:
 
     # Olivia "We're done supporting you."
-    Olivia ""
+    Olivia "Ab tum free me nhi rahoge."
 
 # game/script.rpy:951
 translate hindi start_input_2_a2fcf8a5:
 
     # ch_Name "What?!"
-    ch_Name ""
+    ch_Name "kya?!"
 
 # game/script.rpy:953
 translate hindi start_input_2_eb708d4a:
 
     # Olivia "From now on, if you want to live here..."
-    Olivia ""
+    Olivia "Abse agar tum yaha rehna chahte ho to ..."
 
 # game/script.rpy:955
 translate hindi start_input_2_1394e177:
 
     # Olivia "Pay your rent as a lodger."
-    Olivia ""
+    Olivia "Room ka rent dena padega."
 
 # game/script.rpy:957
 translate hindi start_input_2_306af026:
 
     # ch_Name "What?! What?!"
-    ch_Name ""
+    ch_Name "Kya?!Kya?!"
 
 # game/script.rpy:959
 translate hindi start_input_2_97dd3450:
 
     # Olivia "I expect payment by the fifth of every month."
-    Olivia ""
+    Olivia "Har mahine ke pachwe tareek tk payment mujhe chahiye."
 
 # game/script.rpy:961
 translate hindi start_input_2_8ac87752:
 
     # ch_Name "You're kidding, right?"
-    ch_Name ""
+    ch_Name "Aap mazak kar rhi , na?"
 
 # game/script.rpy:963
 translate hindi start_input_2_833ce195:
 
     # Olivia "You don't have to pay for August, but..."
-    Olivia ""
+    Olivia "August ka dene ka zaroorat nahi , par..."
 
 # game/script.rpy:965
 translate hindi start_input_2_db8f91ff:
 
     # ch_Name "Olivia, hey. Tell me you're kidding..."
-    ch_Name ""
+    ch_Name "Olivia, please boloki aap mazak kar rahi..."
 
 # game/script.rpy:967
 translate hindi start_input_2_3da42f20:
 
     # Olivia "I need your first and last month's payment in September."
-    Olivia ""
+    Olivia "Pehle.aur aakhri mahine ka rent September me dedena."
 
 # game/script.rpy:969
 translate hindi start_input_2_a680031d:
 
     # Olivia "Plus a security deposit in case of property damage."
-    Olivia ""
+    Olivia "Sath me security deposit  property damage ke"
 
 # game/script.rpy:971
 translate hindi start_input_2_b863e1f9:
 
     # ch_Name "What... what kind of nonsense is that?!"
-    ch_Name ""
+    ch_Name "Ye .... kya bakwas hai?!"
 
 # game/script.rpy:973
 translate hindi start_input_2_aa82ecc0:
 
     # ch_Name "How am I supposed to save for school while paying rent? It's a vicious circle!"
-    ch_Name ""
+    ch_Name "Ab mai paise padhai ke liye bachsu ys yaha rehne ke?"
 
 # game/script.rpy:975
 translate hindi start_input_2_a889e973:
 
     # Olivia "Young man!"
-    Olivia ""
+    Olivia "Young man!"
 
 # game/script.rpy:977
 translate hindi start_input_2_419bb65f:
 
     # Olivia "You're under my roof."
-    Olivia ""
+    Olivia "Mere chhat ke neeche ho..."
 
 # game/script.rpy:979
 translate hindi start_input_2_b59257ff:
 
     # Olivia "You follow my rules."
-    Olivia ""
+    Olivia "To mere rules follow Karoge."
 
 # game/script.rpy:981
 translate hindi start_input_2_0c3ee8a6:
 
     # Olivia "You don't like our offer?"
-    Olivia ""
+    Olivia "Humara offer pasand nhi aya?"
 
 # game/script.rpy:983
 translate hindi start_input_2_143d02b4:
 
     # Olivia "Go into the living room and say it to Don's face."
-    Olivia ""
+    Olivia "theek hai. Living room me Don hain , unse boldo jaake."
 
 # game/script.rpy:985
 translate hindi start_input_2_82ed18d6:
 
     # Olivia "Or do you only have the courage to bicker with me?"
-    Olivia ""
+    Olivia "Ya tumhare pass sirf mujhse ladne ki himmat hai?"
 
 # game/script.rpy:987
 translate hindi start_input_2_b8f6f104:
