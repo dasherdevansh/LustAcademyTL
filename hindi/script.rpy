@@ -10,115 +10,117 @@ translate hindi 69ff737f:
 translate hindi start_54c881dc:
 
     # NoName "Hi! My name is..."
-    NoName ""
+    NoName "Hi! Mera naam..."
 
 # game/script.rpy:768
 translate hindi start_input_2_a0ecd7a8:
 
     # ch_Name "My name is [Name] [Surname] and I am 18 years old."
-    ch_Name ""
+    ch_Name "Mera naam [Name] [Surname] hai or mai 18 saal ka hoon."
 
 # game/script.rpy:774
 translate hindi start_input_2_f789cadc:
 
-    # ch_Name "I should have been at training camp with my team right now."
-    ch_Name ""
+    # ch_Name "I should have been at training camp wjth my team right now."
+    ch_Name "Is waqt mujhe apne team ke sath training camp pe hona chahiye tha."
+
+"
 
 # game/script.rpy:776
 translate hindi start_input_2_d05c9319:
 
     # ch_Name "But fate had something else prepared for me."
-    ch_Name ""
+    ch_Name "Par kismat mein kuch aur likha tha"
 
 # game/script.rpy:780
 translate hindi start_input_2_8ba3057e:
 
     # ch_Name "Double open fracture..."
-    ch_Name ""
+    ch_Name "Double open fracture "
 
 # game/script.rpy:781
 translate hindi start_input_2_9ca377b3:
 
     # ch_Name "It's a miracle I'm not crippled."
-    ch_Name ""
+    ch_Name "Ye kisi chamatkar se kam nhi ki mai chal fir skta"
 
 # game/script.rpy:782
 translate hindi start_input_2_b118fdd0:
 
     # ch_Name "Still, I had to say goodbye to my soccer career..."
-    ch_Name ""
+    ch_Name "par ,Mujhe soccer player banne ke dream ko bhoolna pada"
 
 # game/script.rpy:783
 translate hindi start_input_2_e826d333:
 
     # ch_Name "And to the scholarship I needed for college as well."
-    ch_Name ""
+    ch_Name "jis wajah se ab mujhe college jaane ke liye scholarship bhi nhi mil sakti."
 
 # game/script.rpy:787
 translate hindi start_input_2_9cc3f3ac:
 
     # ch_Name "So I had to find another way to get an education."
-    ch_Name ""
+    ch_Name "isiliye mujhe padhai karne ke liye doosra tareeka dhoodhna pada"
 
 # game/script.rpy:789
 translate hindi start_input_2_55620e58:
 
     # ch_Name "Samantha suggested I try photography."
-    ch_Name ""
+    ch_Name "Samantha ne mujhe photography suggest kiya"
 
 # game/script.rpy:791
 translate hindi start_input_2_a8a5cb72:
 
     # ch_Name "As it turns out, I'm a natural!"
-    ch_Name ""
+    ch_Name "or pata chala mai to mai to pro hu isme"
 
 # game/script.rpy:793
 translate hindi start_input_2_e0b7f024:
 
     # ch_Name "Now I work part-time as a photographer to save money for college."
-    ch_Name ""
+    ch_Name "College ke liye paise collect kar raha part time photography karke."
 
 # game/script.rpy:798
 translate hindi start_input_2_0eb03f84:
 
     # ch_Name "I've been applying filters on photos all day..."
-    ch_Name ""
+    ch_Name "Aaj subah se hi photos pe filters laga raha "
 
 # game/script.rpy:800
 translate hindi start_input_2_86ff8bea:
 
     # ch_Name "I hope the client will be happy."
-    ch_Name ""
+    ch_Name "I hope client ko pasand aaye."
 
 # game/script.rpy:802
 translate hindi start_input_2_19d3c2fb:
 
     # ch_Name "A few more shoots and I'll have enough for a down payment."
-    ch_Name ""
+    ch_Name "Kuch hi shots ki baat hai fir to itne paise hojaynge ki down payment hojaye."
 
 # game/script.rpy:804
 translate hindi start_input_2_b9fa1026:
 
     # ch_Name "And I still have time to get out of this shit-hole this semester."
-    ch_Name ""
+    ch_Name "Aur hopefully is semester ke end tak mai is bakwas jagah se nikal jaunga."
 
 # game/script.rpy:818
 translate hindi start_input_2_b6ce45a5:
 
     # NoName "Knock-Knock"
-    NoName ""
+    NoName "Knock-Knock"
 
 # game/script.rpy:863
 translate hindi start_input_2_6f8b77bd:
 
     # Olivia "[Name] [Surname]! You've been slacking again?"
-    Olivia ""
+    Olivia "[Name] [Surname]! Tum aaj bhi time barbad kar rahe? "
 
 # game/script.rpy:865
 translate hindi start_input_2_fcb030eb:
 
     # Olivia "I expected as much from you."
-    Olivia ""
+    Olivia "Tumse yahi umeed thi."
 
 # game/script.rpy:867
 translate hindi start_input_2_944e7bfb:
